@@ -1,9 +1,9 @@
 // Importa o pacote material 3
 import 'package:flutter/material.dart';
-import 'package:my_app/pages/buttonSection/button-section.dart';
-import 'package:my_app/pages/imageSection/image-section.dart';
-import 'package:my_app/pages/textSection/text-section.dart';
-import 'package:my_app/pages/titleSection/title-section.dart';
+import 'package:my_app/pages/buttonSection/button_section.dart';
+import 'package:my_app/pages/imageSection/image_section.dart';
+import 'package:my_app/pages/textSection/text_section.dart';
+import 'package:my_app/pages/titleSection/title_section.dart';
 
 // Inicializa a raiz do projeto
 void main() => runApp(const MyApp());
